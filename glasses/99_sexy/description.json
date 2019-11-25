@@ -1,0 +1,15 @@
+{
+    "path":"R18.png",
+    "parameter": {
+        "top": 15,
+        "left": 35,
+        "right": 35, 
+        "buttom": 15,
+        "depth": -120,
+        "temple_offset": 40
+    }, 
+    "location": {
+        "left":1092, 
+        "right":2238
+    }
+}

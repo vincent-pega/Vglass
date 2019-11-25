@@ -1,0 +1,15 @@
+{
+    "path":"sunglasses_full.png",
+    "parameter": {
+        "top": 20,
+        "left": 35,
+        "right": 35, 
+        "buttom": 30,
+        "depth": -120,
+        "temple_offset": 40
+    }, 
+    "location": {
+        "left":1092, 
+        "right":2238
+    }
+}
