@@ -1,5 +1,5 @@
 # Vglass
-Virtual glasses you can put on everywhere
+A way that you can put on Virtual Glasses everywhere
 
 ![](./test/demo.gif)
 
